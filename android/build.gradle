@@ -35,5 +35,4 @@ android {
 
 dependencies {
     implementation 'com.facebook.android:facebook-share:17.0.1'
-    implementation 'com.twitter.sdk.android:twitter:3.3.0' //twitter share
 }
